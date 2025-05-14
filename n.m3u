@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="me" tvg-logo="https://g.top4top.io/p_340918e5b0.png" group-title="",me
+http://stream.mytvplus.net:7002/sport/ch2/adaptive.m3u8
+#EXTINF:-1 tvg-id="me 1" tvg-logo="https://g.top4top.io/p_340918e5b0.png" group-title="",me 1
+http://stream.mytvplus.net:7003/sport/ch2/adaptive.m3u8
